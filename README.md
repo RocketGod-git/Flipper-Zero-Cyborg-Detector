@@ -4,6 +4,10 @@
 App generates a continous NFC field to make body mod implant LEDs glow. Tested on a Dangerous Things xSIID.
 
 ## 📸 Screenshots
+![Screenshot1](https://github.com/user-attachments/assets/82415074-18ee-413d-8655-67c0e53f699f)
+![Screenshot2](https://github.com/user-attachments/assets/3f721b14-9d33-4488-8f11-2361d85123b0)
+
+![VIDEO](https://github.com/user-attachments/assets/ea6e60ee-29a4-409c-813c-bf2eea793a49)
 
 
 
