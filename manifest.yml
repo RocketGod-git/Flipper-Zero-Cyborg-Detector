@@ -7,7 +7,6 @@ id: 'cyborg_detector'
 name: 'Cyborg Detector'
 screenshots:
   - 'screenshots/Screenshot1.png'
-  - 'screenshots/Screenshot2.png'
 short_description: 'App generates a continous NFC field to make body mod implant LEDs glow. Tested on a Dangerous Things xSIID.'
 sourcecode:
   location:
@@ -15,4 +14,4 @@ sourcecode:
     origin: https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector.git
     subdir:
   type: git
-version: 1.0
+version: 1.1
